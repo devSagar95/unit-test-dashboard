@@ -1,0 +1,5 @@
+TestName,Status,Duration,Timestamp
+test_case_1,SUCCESS,120,2025-04-29 10:00:00
+test_case_2,FAILURE,90,2025-04-29 10:05:00
+test_case_3,SUCCESS,110,2025-04-29 10:10:00
+
